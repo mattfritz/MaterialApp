@@ -34,5 +34,5 @@
                 android:valueTo="0"
                 android:valueType="floatType" />
         </set>
-    </item>
+    </item>>
 </selector>
